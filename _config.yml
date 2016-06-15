@@ -2,12 +2,12 @@
 title: Eduar Rondón
 description: Ingeniero en Sistemas - Cisco - Java - PSKloud
 url: http://edrondon.github.io/
-logo: halve.png                                       # Site logo
+logo: IMG_7704.jpg                                       # Site logo
 locale: es_VE
 
 # Left Block Images
 background:
-  homepage: images/halve.png                           # this image will be shown on homepage's left block
+  homepage: images/home.png                           # this image will be shown on homepage's left block
   post-list: images/unsplash-image-10.jpg             # this image will be shown on post list page
   default-post: images/unsplash-gallery-image-3.jpg   # this image will be shown when post's front matter doesn't specify any image
 
