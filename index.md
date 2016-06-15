@@ -14,5 +14,3 @@ Localidad: San Cristobal en Venezuela
 Lenguaje: Pegandome en la cabeza con java
 
 **/
-
-![](http://edrondon.github.io/images/IMG_7704.jpg)
